@@ -1,9 +1,3 @@
-'''
-Ryka Chandra
-Intermediate Data Programming
-This program implements the functions assigned in HW3 Write-up
-'''
-
 import os
 import tempfile
 import pandas as pd
